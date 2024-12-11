@@ -21,7 +21,7 @@ https://docs.google.com/spreadsheets/d/1VYWd3LSOC4yc7Ucf-6B9Dt3vzF33YLU7/edit?us
 ## Technologies Used :-
 - Power BI: Used for data visualization, dashboard creation, and dynamic reporting.
 - Excel: Data cleaning and initial analysis.
-- 
+  
 ## Key Features:-
 - Interactive Dashboards: Allows users to explore data dynamically with visual filters.
 - KPIs & Metrics: Key metrics such as YoY sales, net sales, and withdrawal trends are highlighted for quick decision-making.- Churn Risk Analysis: Identified customers at risk of churning by analyzing transaction frequency.
